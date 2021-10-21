@@ -1,3 +1,6 @@
+### 今回のサンプルコード
+<https://github.com/KuroiCc/tech-presen-sample-code>
+
 ### shellのif文
 
 <https://shellscript.sunone.me/if_and_test.html>
